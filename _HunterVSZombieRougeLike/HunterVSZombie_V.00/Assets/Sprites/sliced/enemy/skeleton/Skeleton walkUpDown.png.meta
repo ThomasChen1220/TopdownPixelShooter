@@ -1,0 +1,769 @@
+fileFormatVersion: 2
+guid: d4cb494b6c63aa5448e4f986848790b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1187890774051644409
+    second: Skeleton walkUpDown_0
+  - first:
+      213: 2835985732704394974
+    second: Skeleton walkUpDown_1
+  - first:
+      213: 1007802858773850981
+    second: Skeleton walkUpDown_2
+  - first:
+      213: 499572929563993189
+    second: Skeleton walkUpDown_3
+  - first:
+      213: 2043122024613607653
+    second: Skeleton walkUpDown_4
+  - first:
+      213: -2182287988664425332
+    second: Skeleton walkUpDown_5
+  - first:
+      213: -1150147006318441261
+    second: Skeleton walkUpDown_6
+  - first:
+      213: -5659509941189113013
+    second: Skeleton walkUpDown_7
+  - first:
+      213: 4703395864725928424
+    second: Skeleton walkUpDown_8
+  - first:
+      213: 7426076551281853905
+    second: Skeleton walkUpDown_9
+  - first:
+      213: -8767924177258356646
+    second: Skeleton walkUpDown_10
+  - first:
+      213: 8270006324109230187
+    second: Skeleton walkUpDown_11
+  - first:
+      213: 8324830564645660788
+    second: Skeleton walkUpDown_12
+  - first:
+      213: 6564635137398238084
+    second: Skeleton walkUpDown_13
+  - first:
+      213: 5005946595096630077
+    second: Skeleton walkUpDown_14
+  - first:
+      213: -303278376927196100
+    second: Skeleton walkUpDown_15
+  - first:
+      213: 7568083065941082469
+    second: Skeleton walkUpDown_16
+  - first:
+      213: -5014005778086797252
+    second: Skeleton walkUpDown_17
+  - first:
+      213: 5334837801378551963
+    second: Skeleton walkUpDown_18
+  - first:
+      213: 3299522251452351100
+    second: Skeleton walkUpDown_19
+  - first:
+      213: -4805512950390231731
+    second: Skeleton walkUpDown_20
+  - first:
+      213: 7587798362084607785
+    second: Skeleton walkUpDown_21
+  - first:
+      213: -1392539317934203580
+    second: Skeleton walkUpDown_22
+  - first:
+      213: -7398547955050836859
+    second: Skeleton walkUpDown_23
+  - first:
+      213: -8579498570133375370
+    second: Skeleton walkUpDown_24
+  - first:
+      213: 4837927276319261923
+    second: Skeleton walkUpDown_25
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2a004f83a142340bcea59ea7d2cdac
+      internalID: -1187890774051644409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 111
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b27de64f9c46141a533335ce6ff820
+      internalID: 2835985732704394974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 111
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d2948dd4d242743b9a8f3131b82215
+      internalID: 1007802858773850981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 111
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e182105e4e6ac4a8507ee6b4ee4c76
+      internalID: 499572929563993189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 111
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963f58cc5b7e78b42bf92f173e733ebd
+      internalID: 2043122024613607653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 111
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0126c1ba87681d84fb5ac40a0be84a4e
+      internalID: -2182287988664425332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 111
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4473f08cd6437f944baba4fc57a602e4
+      internalID: -1150147006318441261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 111
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6596d8726099a34790602bd1dc067c4
+      internalID: -5659509941189113013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217584a8795fb4943a94a73aff436958
+      internalID: 4703395864725928424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 74
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf31e76199ad1e4fabc29e63f4f08df
+      internalID: 7426076551281853905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 74
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8d7b15f6f703f4c88a03bec9975b1c
+      internalID: -8767924177258356646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 74
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564fce19d14c0e34eb520c9c25b65eb0
+      internalID: 8270006324109230187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 74
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df609ddb659082040b205a53d711e3ec
+      internalID: 8324830564645660788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 74
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bacc67f047a5d4b9a3943315917ebc
+      internalID: 6564635137398238084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 74
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f378d4badaebe443acb24f6f6598402
+      internalID: 5005946595096630077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_15
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 74
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e57c6826552b3e4d89708097a04ab15
+      internalID: -303278376927196100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f864e42ec9ab60499977e9078a0dc48
+      internalID: 7568083065941082469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 37
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca1af1592aff294ab725dbd14af7478
+      internalID: -5014005778086797252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 37
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db74a91549d199c4e9594368013568c7
+      internalID: 5334837801378551963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 37
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe464d8124f85c49845ff13627dc539
+      internalID: 3299522251452351100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 37
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97f2e038936e1b46b61852f62577f36
+      internalID: -4805512950390231731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 37
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa58664aaadd8d4ab70ffc73fabf2cc
+      internalID: 7587798362084607785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_22
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 37
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7d596a36a2e9945a8361fa72827964
+      internalID: -1392539317934203580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_23
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 37
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3f701c51ca55a44aa07b06eaf93e51
+      internalID: -7398547955050836859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4645c654e36ec2e40a2a10fdbbff2a91
+      internalID: -8579498570133375370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton walkUpDown_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3af081ffaa9c2428514416d826d6ce
+      internalID: 4837927276319261923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 71cd850c74be4614294c515dc0584d34
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
